@@ -47,6 +47,7 @@
   border: 2px solid;
   transform-origin: 50% 0%;
   animation: cabins 10s ease-in-out infinite;
+  border-radius: 0.5rem;
 }
 
 .cabin:nth-of-type(1) {
@@ -95,7 +96,7 @@
     background-color: purple;
   }
   75% {
-    background-color: yellow;
+    background-color: rgb(19, 41, 211);
   }
   100% {
     transform: rotate(-360deg);

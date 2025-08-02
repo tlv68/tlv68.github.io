@@ -180,3 +180,6 @@ form {
   border-radius: 2px;
   cursor: pointer;
 }
+.home-link {
+  color: white;
+}

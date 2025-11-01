@@ -3,6 +3,9 @@ body {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  height: 100vh;
+  text-align: center;
+  margin: 0;
 }
 a {margin-bottom: 20px;}
 .wheel {

@@ -6,6 +6,7 @@ body {
   height: 100vh;
   text-align: center;
   margin: 0;
+  margin-top: 300px;
 }
 a {margin-bottom: 20px;}
 .wheel {
